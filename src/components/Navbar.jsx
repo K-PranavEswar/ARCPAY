@@ -21,13 +21,6 @@ function Navbar() {
 
           {/* Right-side Navigation Links & Auth Buttons */}
           <div className="hidden md:flex items-center gap-6"> {/* Increased gap */}
-            {/* Main Nav Links */}
-            <Link to="/rules" className="text-gray-300 hover:text-white transition-colors text-sm font-medium"> {/* Changed to Link */}
-              Rules
-            </Link>
-            <Link to="/services" className="text-gray-300 hover:text-white transition-colors text-sm font-medium"> {/* Changed to Link */}
-              Services
-            </Link>
             <Link to="/contact" className="text-gray-300 hover:text-white transition-colors text-sm font-medium"> {/* Added Contact Us */}
               Contact Us
             </Link>
