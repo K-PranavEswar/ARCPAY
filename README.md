@@ -187,10 +187,3 @@ See [Vite React TS Template](https://github.com/vitejs/vite/tree/main/packages/c
 * 🔗 [Arc Blockchain](https://arcblock.io) for blockchain integration
 * 🗣️ [ElevenLabs](https://elevenlabs.io) for AI voice capabilities
 * ⚙️ [Vite](https://vitejs.dev) & [React](https://react.dev) for powering the frontend
-
-```
-
----
-
-Would you like me to add a **"Contributors" section** (with names, roles, and LinkedIn links) at the end — for showcasing your hackathon team professionally?
-```
