@@ -1,5 +1,5 @@
 ````markdown
-# 💳 ArcPay — AI Wallet Guardian
+💳 ArcPay — AI Wallet Guardian
 
 ArcPay is a next-generation AI Wallet Guardian that intelligently automates personal finances.  
 It features AI-driven rule evaluation, on-chain USDC transactions via the Arc blockchain, and voice interactions powered by ElevenLabs.
@@ -8,7 +8,7 @@ Built for the "AI Agents on Arc with USDC" Hackathon (Oct 27 – Nov 9, 2025) �
 
 ---
 
-## 🚀 Key Features
+🚀 Key Features
 
 - 🎨 Modern Dashboard UI — Visualize finances, manage rules, and monitor AI agent activity.  
 - 🧠 AI Agent Interaction — (Simulated/Backend-driven) Demonstrates how agents like Arcpay evaluate payment requests based on user-defined rules.  
@@ -18,7 +18,7 @@ Built for the "AI Agents on Arc with USDC" Hackathon (Oct 27 – Nov 9, 2025) �
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 ### Frontend
 - ⚛️ React (with Vite)
