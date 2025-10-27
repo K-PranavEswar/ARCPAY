@@ -1,41 +1,41 @@
 ````markdown
 # 💳 ArcPay — AI Wallet Guardian
 
-ArcPay is a next-generation **AI Wallet Guardian** that intelligently automates personal finances.  
-It features AI-driven rule evaluation, on-chain USDC transactions via the **Arc blockchain**, and **voice interactions** powered by **ElevenLabs**.
+ArcPay is a next-generation AI Wallet Guardian that intelligently automates personal finances.  
+It features AI-driven rule evaluation, on-chain USDC transactions via the Arc blockchain, and voice interactions powered by ElevenLabs.
 
-Built for the **"AI Agents on Arc with USDC" Hackathon (Oct 27 – Nov 9, 2025)** — organized by **Lablab.ai, Circle, Arc, and ElevenLabs**.
+Built for the "AI Agents on Arc with USDC" Hackathon (Oct 27 – Nov 9, 2025) — organized by Lablab.ai, Circle, Arc, and ElevenLabs.
 
 ---
 
 ## 🚀 Key Features
 
-- 🎨 **Modern Dashboard UI** — Visualize finances, manage rules, and monitor AI agent activity.  
-- 🧠 **AI Agent Interaction** — (Simulated/Backend-driven) Demonstrates how agents like *Finley* evaluate payment requests based on user-defined rules.  
-- 🔗 **On-Chain Integration** — (Backend-driven) Supports secure, gasless USDC payments on the **Arc blockchain** via the **Circle API**.  
-- 🔊 **Voice Feedback** — (Backend-driven) Integrates **ElevenLabs** for voice alerts and potentially voice command processing.  
-- 🔐 **User Authentication** — Includes modern login and signup flows.
+- 🎨 Modern Dashboard UI — Visualize finances, manage rules, and monitor AI agent activity.  
+- 🧠 AI Agent Interaction — (Simulated/Backend-driven) Demonstrates how agents like Arcpay evaluate payment requests based on user-defined rules.  
+- 🔗 On-Chain Integration — (Backend-driven) Supports secure, gasless USDC payments on the Arc blockchain via the Circle API.  
+- 🔊 Voice Feedback — (Backend-driven) Integrates ElevenLabs for voice alerts and potentially voice command processing.  
+- 🔐 User Authentication — Includes modern login and signup flows.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### Frontend
 - ⚛️ React (with Vite)
 - 💨 Tailwind CSS
 - 🧭 React Router DOM
 - 🧩 Lucide React Icons
 
-### **Backend** (separate project)
+### Backend (separate project)
 - 🟢 Node.js + Express
 - 🗄️ MongoDB + Mongoose
 - 🤖 LangChain.js (AI Logic)
 - 💵 Circle API SDK (USDC handling)
 - 🗣️ ElevenLabs API SDK (Voice feedback)
 
-### **Blockchain**
+### Blockchain
 - 🪙 Arc Blockchain  
-- 💰 Stablecoin: **USDC (via Circle API)**
+- 💰 Stablecoin: USDC (via Circle API)
 
 ---
 
@@ -127,7 +127,7 @@ arcpay-frontend/
 4. If approved:
 
    * A **USDC payment** is triggered securely through **Circle API** on the **Arc blockchain**.
-   * A **voice confirmation** is generated using **ElevenLabs**.
+   * A **voice confirmation** is generated using ElevenLabs.
 5. All transactions are visible in the **dashboard** and **activity history**.
 
 ---
